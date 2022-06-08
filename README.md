@@ -5,7 +5,7 @@ If you want to use ARM targets to reduce your bills, such as **Raspberry Pis** a
 First things first, read this docker repo
 ## [**buildx**](https://github.com/docker/buildx) `buildx` is a Docker CLI plugin for extended build capabilities with [BuildKit](https://github.com/moby/buildkit). 
 ## [More sample on buildx medium ](https://medium.com/nttlabs/buildx-multiarch-2c6c2df00ca2).
-## [More sample on buildx docker ] (https://docs.docker.com/engine/reference/commandline/buildx_build).
+## [More sample on buildx docker ](https://docs.docker.com/engine/reference/commandline/buildx_build).
 ## [Multi-arch image using manifest](https://www.docker.com/blog/multi-arch-build-and-images-the-simple-way).
 ## [Multi-arch image using buildx](https://medium.com/geekculture/docker-build-with-mac-m1-d668c802ab96)
 ## [Multi-arch docker-hub repo](https://hub.docker.com/repositories).
